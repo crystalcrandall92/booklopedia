@@ -1,0 +1,28 @@
+.border {
+  background-image: url(books.jpg);
+  padding: 50px;
+}
+
+.header {
+    background-color: teal;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgb(44, 14, 14);
+  }
+
+  .center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid teal;
+    padding: 5px;
+  }
+
+  .centerform{
+    margin: auto;
+    width: 10%;
+  }
+
+  .float {
+    float: right;
+  }
