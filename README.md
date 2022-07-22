@@ -24,10 +24,5 @@ See contact information
 #### Heroku Link: https://damp-sierra-29505.herokuapp.com/
 #### Email: crystalcrandall92@yahoo.com
 
-![example1](./examples/example1.png)
-
-![example1](./examples/example2.png)
-
-![example1](./examples/example3.png)
 
 
